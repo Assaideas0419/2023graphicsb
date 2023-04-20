@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1681972056 source:c:\users\administrator\desktop\2023graphicsb\week08-2_glm_model_texture\glm.cpp
+1681972056 source:c:\users\administrator\desktop\2023graphicsb\week10-1_glm_gundam\glm.cpp
 	<math.h>
 	<stdio.h>
 	<stdlib.h>
@@ -7,7 +7,7 @@
 	<assert.h>
 	"glm.h"
 
-1681972056 c:\users\administrator\desktop\2023graphicsb\week08-2_glm_model_texture\glm.h
+1681972056 c:\users\administrator\desktop\2023graphicsb\week10-1_glm_gundam\glm.h
 	<GL/glut.h>
 
 1426320928 c:\users\administrator\desktop\freeglut-mingw-3.0.0-1.mp\freeglut\include\gl\glut.h
@@ -24,7 +24,7 @@
 	<GL/glu.h>
 	<stdlib.h>
 
-1681972056 source:c:\users\administrator\desktop\2023graphicsb\week08-2_glm_model_texture\main.cpp
+1681975147 source:c:\users\administrator\desktop\2023graphicsb\week10-1_glm_gundam\main.cpp
 	<opencv/highgui.h>
 	<opencv/cv.h>
 	<GL/glut.h>
