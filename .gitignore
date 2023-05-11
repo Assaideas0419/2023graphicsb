@@ -23,9 +23,9 @@
 # Compiled Static libraries
 *.lai
 *.la
-*.a
-*.lib
-
+#*.a
+#*.lib
+#上面兩個glut會需要用到 允許放行
 # Executables
 *.exe
 *.out
