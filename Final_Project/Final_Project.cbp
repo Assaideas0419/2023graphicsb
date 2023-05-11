@@ -2,7 +2,7 @@
 <CodeBlocks_project_file>
 	<FileVersion major="1" minor="6" />
 	<Project>
-		<Option title="week12-4_keyboard_mouse" />
+		<Option title="Final_Project" />
 		<Option pch_mode="2" />
 		<Option compiler="gcc" />
 		<Build>
@@ -40,6 +40,7 @@
 			<Add library="gdi32" />
 			<Add directory="freeglut/lib" />
 		</Linker>
+		<Unit filename="glm.cpp" />
 		<Unit filename="main.cpp" />
 		<Extensions>
 			<code_completion />
