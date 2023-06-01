@@ -1,5 +1,8 @@
 # depslib dependency file v1.0
-1685602394 source:c:\users\administrator\desktop\2023graphicsb\week16_all\main.cpp
+1685603232 source:c:\users\administrator\desktop\2023graphicsb\week16_all\main.cpp
+	<opencv/highgui.h>
+	<opencv/cv.h>
+	<GL/glut.h>
 	<stdio.h>
 	<GL/glut.h>
 	"glm.h"
